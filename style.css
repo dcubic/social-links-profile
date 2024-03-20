@@ -93,5 +93,6 @@ a {
 
 a:hover {
     background-color: var(--green-style);
+    transition-duration: 0.2s;
     color: var(--off-black-style);
 }
